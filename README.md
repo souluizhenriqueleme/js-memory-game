@@ -11,3 +11,6 @@ You must have these to tools to use and enjoy the game.
 ### Initialize the game
 At `Browser` open the `index.html` file and start playing.
 
+![Cards Back](https://github.com/souluizleme/js-memory-game/blob/master/Screenshot_Memory%20Game.png)
+
+![Cards Front](https://github.com/souluizleme/js-memory-game/blob/master/Screenshot_%20Memory%20Game_Playing.png)
